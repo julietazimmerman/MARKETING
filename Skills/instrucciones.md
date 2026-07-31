@@ -1,6 +1,3 @@
-Skills disponibles: 
-- unificación de estilos de HTMLs
-
 Como conectarlas con claude:
 - Descargar el archivo de tipó .skill 
 - Abrir claude y entrar a la opción de "Customize" y en el menú lateral que se abre (abajo de tood) ir a la solapa de "Skills"
